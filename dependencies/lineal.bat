@@ -1,0 +1,1 @@
+lineal > sys.log
